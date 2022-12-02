@@ -21,6 +21,6 @@ This bot sends requests to multiple roblox endpoints to find out the web sockets
 [JavaScript Version](https://github.com/nwith6/Roblox-WebSocket-Bot)
 
 ## Extra Information
-I didn't do a lot of testing in this repo so there may be errrs. For an errorless experience the JavaScript version has undergone 100x more tests. Also this repo will be updated much less than the JavaScript version. If you're someone who wants to keep up to date with the latest nextcord version.
+I didn't do a lot of testing in this repo so there may be errors. For an errorless experience the JavaScript version has undergone 100x more tests. Also this repo will be updated much less than the JavaScript version. If you're someone who wants to keep up to date with the latest nextcord version.
 
 # If you need any help contact me @ nathan#2400
