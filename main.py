@@ -11,7 +11,6 @@ bot = commands.Bot()
 # Command Registration
 bot.add_cog(getplayer.Getplayer(bot))
 bot.add_cog(getservers.Getservers(bot))
-bot.add_command
 
 # Event Registration
 bot.add_cog(on_ready.On_ready(bot))
